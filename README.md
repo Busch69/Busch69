@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Busch69
-- 👀 I’m interested in .NET Full Stack and Game Development
+- 👀 I’m interested in Frontend Dev and Game Development
 - 🌱 I’m currently learning Unity
 
 <!---
